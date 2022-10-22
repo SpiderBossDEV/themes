@@ -19,68 +19,68 @@
       "#4ce675"
     ],
     "HEADER_SECONDARY": [
-      "#B6B6B6",
-      "#4f5660"
+      "#59d964",
+      "#245e29"
     ],
     "TEXT_NORMAL": [
-      "#FBFBFB",
-      "#2e3338"
+      "#FFFFFF",
+      "#63ff70"
     ],
     "TEXT_MUTED": [
-      "#B6B6B6",
-      "#747f8d"
+      "#FFFFFF",
+      "#134217"
     ],
     "INTERACTIVE_NORMAL": [
-      "#c8c8c8",
-      "#4f5660"
+      "#3b8c42",
+      "#191a19"
     ],
     "INTERACTIVE_HOVER": [
-      "#dcddde",
-      "#2e3338"
+      "#9effa6",
+      "#1e5723"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#ffffff",
-      "#060607"
+      "#000000",
+      "#197321"
     ],
     "INTERACTIVE_MUTED": [
-      "#747474",
-      "#c7ccd1"
+      "#082b0b",
+      "#3d7842"
     ],
     "BACKGROUND_PRIMARY": [
-      "#160c2f",
-      "#ffffff"
+      "#163619",
+      "#10911b"
     ],
     "BACKGROUND_SECONDARY": [
-      "#1f1142",
-      "#f2f3f5"
+      "#0b0d0b",
+      "#2b6e30"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#2a1858",
-      "#ebedef"
+      "#15821e",
+      "#2a2b2a"
     ],
     "BACKGROUND_TERTIARY": [
-      "#0b041b",
-      "#e3e5e8"
+      "#143017",
+      "#195c1e"
     ],
     "BACKGROUND_ACCENT": [
-      "#1f1142",
-      "#747f8d"
+      "#24872d",
+      "#25612a"
     ],
     "BACKGROUND_FLOATING": [
-      "#2a1858",
-      "#FFFFFF"
+      "#1d361f",
+      "#1d7d25"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#0b041b",
-      "#f8f9f9"
+      "#3aa643",
+      "#193d1c"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#160c2f",
-      "#ffffff"
+      "#0b2b0e",
+      "#072b0a"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#160c2f",
-      "#ffffff"
+      "#24a62f",
+      "#07ab15"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
       "rgba(255, 255, 255, 0.02)",
