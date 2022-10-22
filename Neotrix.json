@@ -1,11 +1,11 @@
 {
-   "name": "AMOLED",
+   "name": "Sytrent",
    "version": "1.0.0",
-   "description": "A mostly pitch black theme with exceptions such as buttons being a bit lighter for convenience.",
+   "description": "Sytrent On Top.",
    "authors": [
       {
-         "name": "eternal",
-         "id": "263689920210534400"
+         "name": "neotrix",
+         "id": "949330294455021618"
       }
    ],
    "theme_color_map": {
@@ -142,5 +142,10 @@
    },
    "unsafe_colors": {
       "CHAT_GREY": "#000000"
-   }
+   },
+  "background": {
+    "blur": 0.1,
+    "url": "https://cdn.discordapp.com/attachments/1025983342161711184/1032000298450956288/image5.png",
+    "alpha": 0.1
+  }
 }
