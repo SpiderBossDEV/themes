@@ -1,61 +1,155 @@
 {
-	"name": "Neotrix",
-	"version": "1.0",
-	"description": "",
-	"color": "#5E81AC",
-	"authors": [
-		{
-			"name": "NEO",
-			"id": "424806150702366723"
-		}
-	],
-	"theme_color_map": {
-		"KEYBOARD": ["#2E3440", "#D8DEE9"],
-		"BACKGROUND_PRIMARY": ["#2E3440", "#D8DEE9"],
-		"BACKGROUND_SECONDARY": ["#3C4454", "#E5E9F0"],
-		"BACKGROUND_SECONDARY_ALT": ["#444D5F", "#E5E9F0"],
-		"BACKGROUND_TERTIARY": ["#242933", "#ECEFF4"],
-		"BACKGROUND_ACCENT": ["#4C566A", "#5E81AC"],
-		"BACKGROUND_FLOATING": ["#2E3440", "#D8DEE9"],
-		"BACKGROUND_NESTED_FLOATING": ["#2E3440", "#D8DEE9"],
-		"BACKGROUND_MOBILE_PRIMARY": ["#2E3440", "#D8DEE9"],
-		"BACKGROUND_MOBILE_SECONDARY": ["#2E3440", "#D8DEE9"],
-		"BACKGROUND_MODIFIER_ACTIVE": ["#4C566A", "#5E81AC"],
-		"BACKGROUND_MODIFIER_SELECTED": ["#4C566A", "#81A1C1"],
-		"BACKGROUND_MODIFIER_ACCENT": ["#4C566A", "#81A1C1"],
-		"CHANNELTEXTAREA_BACKGROUND": ["transparent", "transparent"],
-		"CHANNELS_DEFAULT": ["#88C0D0", "#5E81AC"],
-		"HEADER_PRIMARY": ["#FFFFFF", "#5E81AC"],
-		"HEADER_SECONDARY": ["#D8DEE9", "#81A1C1"],
-		"INTERACTIVE_ACTIVE": ["#FFFFFF", "#88C0D0"],
-		"INTERACTIVE_MUTED": ["#959393", "#959393"],
-		"INTERACTIVE_NORMAL": ["#D8DEE9", "#5E81AC"],
-		"TEXT_NORMAL": ["#FFFFFF", "#000000"],
-		"TEXT_MUTED": ["#D8DEE9", "#5E81AC"],
-		"TEXT_LINK": ["#88C0D0", "#8FBCBB"],
-		"CHANNEL_ICON": ["#D8DEE9", "#5E81AC"]
-	},
-	"colours": {
-		"PRIMARY_DARK": "#bfbfbf",
-		"PRIMARY_DARK_100": "#FFFFFF",
-		"PRIMARY_DARK_300": "#88C0D0",
-		"PRIMARY_DARK_360": "#bfbfbf",
-		"PRIMARY_DARK_400": "#88C0D0",
-		"PRIMARY_DARK_500": "#444D5F",
-		"PRIMARY_DARK_600": "#2E3440",
-		"PRIMARY_DARK_630": "#2E3440",
-		"PRIMARY_DARK_700": "#4C566A",
-		"PRIMARY_DARK_800": "#2E3440",
-		"BRAND_NEW": "#444D5F",
-		"WHITE": "#88C0D0",
-		"STATUS_YELLOW": "#959393",
-		"STATUS_GREEN_600": "#4C566A" 
-	},
-	"unsafe_colors": {
-		"CHAT_GREY": "#2E3440"
-	}
-	"background": {
-        "blur": 0.1,
-        "url": "https://cdn.discordapp.com/attachments/994317454568333413/1033399299234599012/FA7B2F52-0865-4AEA-ACF8-C9D1B80B7F5A.jpg",
-        "alpha": 0.1  
+   "name": "Neotrix",
+   "description": "Sytrent",
+   "version": "1.0.0",
+   "authors": [
+      {
+         "name": "neotrix",
+         "id": "949330294455021618"
+      }
+   ],
+   "theme_color_map": {
+      "KEYBOARD": [
+         "#111111",
+         "#FFFFFF"
+      ],
+      "HEADER_PRIMARY": [
+         "#FBFBFB",
+         "#060607"
+      ],
+      "HEADER_SECONDARY": [
+         "#B6B6B6",
+         "#4f5660"
+      ],
+      "TEXT_NORMAL": [
+         "#FBFBFB",
+         "#2e3338"
+      ],
+      "TEXT_MUTED": [
+         "#B6B6B6",
+         "#747f8d"
+      ],
+      "INTERACTIVE_NORMAL": [
+         "#C8C8C8",
+         "#4f5660"
+      ],
+      "INTERACTIVE_HOVER": [
+         "#DCDDDE",
+         "#2e3338"
+      ],
+      "INTERACTIVE_ACTIVE": [
+         "#FFFFFF",
+         "#060607"
+      ],
+      "INTERACTIVE_MUTED": [
+         "#747474",
+         "#c7ccd1"
+      ],
+      "BACKGROUND_PRIMARY": [
+         "#141414",
+         "#ffffff"
+      ],
+      "BACKGROUND_SECONDARY": [
+         "#111111",
+         "#f2f3f5"
+      ],
+      "BACKGROUND_SECONDARY_ALT": [
+         "#0e0e0e",
+         "#ebedef"
+      ],
+      "BACKGROUND_TERTIARY": [
+         "#0E0E0E",
+         "#e3e5e8"
+      ],
+      "BACKGROUND_ACCENT": [
+         "#292929",
+         "#747f8d"
+      ],
+      "BACKGROUND_FLOATING": [
+         "#090909",
+         "#FFFFFF"
+      ],
+      "BACKGROUND_MOBILE_PRIMARY": [
+         "#141414",
+         "#f8f9f9"
+      ],
+      "BACKGROUND_MOBILE_SECONDARY": [
+         "#111111",
+         "#ffffff"
+      ],
+      "BACKGROUND_NESTED_FLOATING": [
+         "#111111",
+         "#ffffff"
+      ],
+      "BACKGROUND_MESSAGE_HOVER": [
+         "rgba(255, 255, 255, 0.02)",
+         "#FFFFFF"
+      ],
+      "BACKGROUND_MODIFIER_HOVER": [
+         "rgba(255, 255, 255, 0.02)",
+         "hsla(214, 9.9%, 50.4%, 0.08)"
+      ],
+      "BACKGROUND_MODIFIER_ACTIVE": [
+         "rgba(255, 255, 255, 0.03)",
+         "hsla(214, 9.9%, 50.4%, 0.16)"
+      ],
+      "BACKGROUND_MODIFIER_SELECTED": [
+         "rgba(255, 255, 255, 0.04)",
+         "hsla(214, 9.9%, 50.4%, 0.24)"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT": [
+         "rgba(255, 255, 255, 0.06)",
+         "hsla(240, 7.7%, 2.5%, 0.08)"
+      ],
+      "SCROLLBAR_THIN_THUMB": [
+         "#292929",
+         "hsla(217, 7.6%, 33.5%, 0.3)"
+      ],
+      "SCROLLBAR_THIN_TRACK": [
+         "transparent",
+         "hsla(0, 0%, 0%, 0)"
+      ],
+      "SCROLLBAR_AUTO_THUMB": [
+         "#292929",
+         "#cccccc"
+      ],
+      "SCROLLBAR_AUTO_TRACK": [
+         "rgba(0, 0, 0, 0.1)",
+         "#f2f2f2"
+      ],
+      "CHANNELTEXTAREA_BACKGROUND": [
+         "transparent",
+         "#ebedef"
+      ],
+      "CHANNEL_ICON": [
+         "#B6B6B6",
+         "#6a7480"
+      ],
+      "CHANNELS_DEFAULT": [
+         "#B6B6B6",
+         "#6a7480"
+      ]
+   },
+   "colours": {
+      "PRIMARY_DARK": "#747474",
+      "PRIMARY_DARK_100": "#FFFFFF",
+      "PRIMARY_DARK_200": "#FFFFFF",
+      "PRIMARY_DARK_300": "#B6B6B6",
+      "PRIMARY_DARK_360": "#C8C8C8",
+      "PRIMARY_DARK_400": "#585858",
+      "PRIMARY_DARK_500": "#292929",
+      "PRIMARY_DARK_600": "#111111",
+      "PRIMARY_DARK_630": "#1F1F1F",
+      "PRIMARY_DARK_700": "#090909",
+      "PRIMARY_DARK_800": "#090909",
+      "PRIMARY_DARK_900": "#090909"
+   },
+   "unsafe_colors": {
+      "CHAT_GREY": "#111111"
+   }
+   "background": {
+   "blur": 0.1,
+   "url": "https://cdn.discordapp.com/attachments/994317454568333413/1033401991944220682/7E920235-0D3F-465F-B508-7E0CBA626E0B.jpg",
+   "alpha": 0.1
+  }
 }
